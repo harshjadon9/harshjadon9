@@ -1,7 +1,10 @@
+![](https://komarev.com/ghpvc/?username=harshjadon9&color=blueviolet)
 ## Hi there 👋
 
 I m Harsh Jadon 😎, i like to work on project which interests me, randomly.
 I dont like to code much, but love to convert projects ideas into reality.
+
+
 
 # Tech Stack
  ### Languages
