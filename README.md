@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=harshjadon9&color=blueviolet)
-## Hi there 👋 , I'm Harsh 👦🏻
+# Hi there 👋 , I'm Harsh 👦🏻
 
 
  I like to work on project which interests me, randomly.
@@ -9,7 +9,7 @@ I dont like to code much, but love to convert projects ideas into reality. Here 
 - 🌱 I’m currently learning - Blockchain and networks.
 - 📫 How to reach me - <a href="mailto:harshjadon9@gmail.com"> Harshjadon9@gmail.com </a>
 
-# Tech Stack
+## Tech Stack
 
 <!--
  ### Languages
