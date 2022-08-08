@@ -2,10 +2,9 @@
 # Hi there 👋 , I'm Harsh 👦🏻
 
 
- I like to work on project which interests me, randomly.
-I dont like to code much, but love to convert projects ideas into reality. Here you'll find a small sample of the projects I’ve hacked on over quite some time. ✨
+I like to work on a project which interests me, randomly. I wouldn't say I like to code much, but I love to convert project ideas into reality. Here you'll find a small sample of the projects I’ve hacked on over quite some time. ✨
 
-- 🔭 I’m currently working on - A e-commerce store, hackathons and open source.
+- 🔭 I’m currently working on - A e-commerce store, hackathons, and open source.
 - 🌱 I’m currently learning - Blockchain and networks.
 - 📫 How to reach me - <a href="mailto:harshjadon9@gmail.com"> Harshjadon9@gmail.com </a>
 
