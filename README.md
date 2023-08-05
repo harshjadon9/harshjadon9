@@ -2,7 +2,7 @@
 # Hi there 👋 , I'm Harsh 👦🏻
 
 
-I like to work on a project which interests me, randomly. I wouldn't say I like to code much, but I love to convert project ideas into reality. Here you'll find a small sample of the projects I’ve hacked on over quite some time. ✨
+Hello! I'm a student at VIT Vellore and I have a passion for developing apps and creating new things. I enjoy working on projects that interest me, regardless of whether they were randomly chosen or not. I find great joy in turning project ideas into reality, and I have worked on several projects over a period of time. Check out some of the projects I have hacked on below. ✨
 
 - 🔭 I’m currently working on - A e-commerce store, hackathons, and open source.
 - 🌱 I’m currently learning - Blockchain and networks.
